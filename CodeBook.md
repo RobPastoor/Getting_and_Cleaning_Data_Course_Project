@@ -2,11 +2,15 @@
 Author: Rob Pastoor.  
 Date:   Januari 31, 2016.  
 
-## ID Fields
+## Sourse data
+
+## Results
+
+### ID Fields
 * `subject` - The participant ("subject") ID
 * `activity` - The label of the activity performed when the corresponding measurements were taken
 
-## Extracted Feature Fields
+### Extracted Feature Fields
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
 * `tBodyAccMeanZ`
@@ -72,7 +76,7 @@ Date:   Januari 31, 2016.
 * `fBodyBodyGyroMagStd`
 * `fBodyBodyGyroJerkMagMean`
 
-## Activity labels
+### Activity labels
 * `walking` (value `1`)
 * `walkingUpstairs` (value `2`)
 * `walkingDownstairs` (value `3`)
