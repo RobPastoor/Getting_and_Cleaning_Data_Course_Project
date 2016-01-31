@@ -73,9 +73,9 @@ Date:   Januari 31, 2016.
 * `fBodyBodyGyroJerkMagMean`
 
 ## Activity labels
-* walking  (value 1)
-* walkingUpstairs  (value 2)
-* walkingDownstairs  (value 3)
-* sitting  (value 4)
-* standing  (value 5)
-* laying  (value 6)
+* `walking`  (value `1`)
+* `walkingUpstairs`  (value `2`)
+* `walkingDownstairs`  (value `3`)
+* `sitting`  (value `4`)
+* `standing`  (value `5`)
+* `laying`  (value `6`)
