@@ -4,7 +4,7 @@ Date:   Januari 31, 2016.
 
 ## Raw data collection
 As data source was downloaded a .ZIP-file from this location:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
-In the .ZIP-file is a directory with files, that was extracted to a subfolder in the working directory in the R-project, with the same name as in the .ZIP-folder.
+In the .ZIP-file is a directory with files, that was extracted to a subfolder in the working directory in the R-project, with the same name as in the .ZIP-folder: "UCI HAR Dataset".
 
 ## Processing
 The raw data sets are processed with the `run_analisys.R` script to create a tidy data set.
