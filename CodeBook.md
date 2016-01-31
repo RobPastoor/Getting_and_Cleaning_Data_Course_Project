@@ -2,5 +2,5 @@
 Author: Rob Pastoor.  
 Date:   Januari 31, 2016. 
 ## ID Fields
-* 'r subject' - The participant ("subject") ID
-* 'r activity' - The label of the activity performed when the corresponding measurements were taken
+* `subject` - The participant ("subject") ID
+* `activity` - The label of the activity performed when the corresponding measurements were taken
