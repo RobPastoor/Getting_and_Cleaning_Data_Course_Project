@@ -25,7 +25,7 @@ Labels given from the original collectors were changed:
 
 ### Create a tidy data set
 From the intermediate data set is created a final tidy data set where numeric variables are averaged for each activity and each subject.  
-This tidy data set is written to a .TXT-file, using this command:
+This tidy data set is written to a .TXT-file, using this command:  
 `write.table(result, "data_with_means.txt", row.name = FALSE, quote = FALSE, sep = "; ")`.
 
 ## Results
