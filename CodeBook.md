@@ -29,6 +29,7 @@ This tidy data set is written to a .TXT-file, with name "data_with_means.txt" us
 `write.table(result, "data_with_means.txt", row.name = FALSE, quote = FALSE, sep = "; ")`.
 
 ## Results
+The result is a .TXT-file, in the working directory, with name "data_with_means.txt".
 
 ### ID Fields
 * `subject` - The participant ("subject") ID
